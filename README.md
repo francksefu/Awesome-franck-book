@@ -83,12 +83,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muhammad Davlatov**
-
-- GitHub: [Muhammad0602](https://github.com/Muhammad0602)
-- Twitter: [Muhammad Davlatov](https://twitter.com/MuhammadDavla20)
-- LinkedIn: [Muhammad Davlatov](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
-
 👤 **Franck**
 
 - GitHub: [francksefu](https://github.com/francksefu)
